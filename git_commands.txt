@@ -10,3 +10,4 @@ Git commands
 8. git branch -a             		//-a lists all the branchs
 9. git checkout -b (branch name)	//-b for creating a new branch
 10.git branch -d (branch name)		//-d delete branch
+11.git push origin -u git_commands
