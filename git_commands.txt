@@ -1,0 +1,12 @@
+Git commands
+
+1. git init
+2. git status -s
+3. git add . (can specify file name)
+4. git commit -m "enter any messages"
+5. git remote add origin (add https or ssh key)
+6. git remote -v
+7. git push origin -u master 		//-u is upstream
+8. git branch -a             		//-a lists all the branchs
+9. git checkout -b (branch name)	//-b for creating a new branch
+10.git branch -d (branch name)		//-d delete branch
