@@ -1,0 +1,6 @@
+//heroku commands
+
+heroku login
+heroku plugins:install heroku-cli-deploy
+heroku buildpacks:clear
+heroku war:deploy CamRent.war --app camrent
